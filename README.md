@@ -1,10 +1,10 @@
-# tableau_citibike
+## tableau_citibike
 
 Tableau Dashboard: 
 https://public.tableau.com/profile/teresa.ruan#!/vizhome/CitiBike_FinalVersion/CitiBikeStory?publish=yes
 
 
-##Process: 
+**Process:**
 
 Step 1) Retreived and cleaned dataset
 1.0: Extract dataset from https://www.citibikenyc.com/system-data
