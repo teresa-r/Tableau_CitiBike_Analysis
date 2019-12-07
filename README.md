@@ -7,7 +7,7 @@ https://public.tableau.com/profile/teresa.ruan#!/vizhome/CitiBike_FinalVersion/C
 ```
 Process:
 ```
-Step 1) Retreived and cleaned dataset
+### Step 1) Retreived and cleaned dataset
 
 1.0: Extract data from https://www.citibikenyc.com/system-data
 
@@ -16,4 +16,6 @@ Step 1) Retreived and cleaned dataset
 1.2: combined all dataframes into one master dataframe
 
 
-Step 2) Loaded master dataframe into Tableau Public for KPI analysis 
+
+
+### Step 2) Loaded master dataframe into Tableau Public for KPI analysis 
