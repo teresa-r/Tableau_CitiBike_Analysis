@@ -9,11 +9,11 @@ Process:
 ```
 Step 1) Retreived and cleaned dataset
 
-1.0: Extract dataset from https://www.citibikenyc.com/system-data
+1.0: Extract data from https://www.citibikenyc.com/system-data
 
-1.1: Use Jupyter notebook to explore, clean and standarized all datasets
+1.1: Data wrangling:  Used Jupyter notebook to explore, clean and standardize all dataframes
 
-1.2: combine all datasets into one master file, then export to csv
+1.2: combined all dataframes into one master dataframe
 
 
-Step 2) Bring master dataset into Tableau Public
+Step 2) Loaded master dataframe into Tableau Public for KPI analysis 
