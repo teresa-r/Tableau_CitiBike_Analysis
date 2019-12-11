@@ -1,9 +1,9 @@
-## tableau_citibike
+## Citibike Visualization with Tableau
 
 ```
 Process:
 ```
-### Step 1) Retreived and cleaned dataset
+#### Step 1) Retreived and cleaned dataset
 
 1.0: Extract data from https://www.citibikenyc.com/system-data
 
@@ -14,7 +14,7 @@ Process:
 
 
 
-### Step 2) Loaded master dataframe into Tableau Public for KPI analysis 
+#### Step 2) Loaded master dataframe into Tableau Public for KPI analysis 
 ```
 Tableau KPI Dashboard: 
 ```
