@@ -1,8 +1,4 @@
 ## tableau_citibike
-```
-Tableau KPI Dashboard: 
-```
-https://public.tableau.com/profile/teresa.ruan#!/vizhome/CitiBike_FinalVersion/CitiBikeStory?publish=yes
 
 ```
 Process:
@@ -19,3 +15,7 @@ Process:
 
 
 ### Step 2) Loaded master dataframe into Tableau Public for KPI analysis 
+```
+Tableau KPI Dashboard: 
+```
+https://public.tableau.com/profile/teresa.ruan#!/vizhome/CitiBike_FinalVersion/CitiBikeStory?publish=yes
